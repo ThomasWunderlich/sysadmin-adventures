@@ -1,0 +1,3 @@
+[submodule "bin/vbin"]
+	path = bin/vbin
+	url = https://github.com/dlink/vbin.git
