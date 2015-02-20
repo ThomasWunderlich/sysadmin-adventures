@@ -1,3 +1,6 @@
 [submodule "bin/vbin"]
 	path = bin/vbin
 	url = https://github.com/dlink/vbin.git
+[submodule "bin/ack2"]
+	path = bin/ack2
+	url = https://github.com/petdance/ack2.git
